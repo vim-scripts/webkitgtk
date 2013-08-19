@@ -1,0 +1,3 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4699
+
+I wrote a simple program to parse webkitgtk.devhelp2 and generate this syntax file.
